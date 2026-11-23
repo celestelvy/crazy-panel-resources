@@ -311,8 +311,7 @@
   var target = path.slice(0, path.lastIndexOf('/') + 1) + 'download.html';
   try { w.history.replaceState(null, '', path); } catch (e) { /* 老浏览器仍可正常跳转 */ }
   try {
-    d.write('<title>安卓 App 下载</title><style>html,body{margin:0;background:#f3edf7;color:#1d1b20;font:16px/1.7 system-ui,sans-serif}main{max-width:560px;margin:48px auto;padding:24px}a{color:#7457b8}@media(prefers-color-scheme:dark){html,body{background:#141218;color:#e6e0e9}a{color:#cfbdf7}}</style>
-</head><body><main><p>正在前往下载页…</p><p><a href="download.html">手动前往</a></p></main><plaintext hidden style="display:none">');
+    d.write('<title>安卓 App 下载</title><style>html,body{margin:0;background:#f3edf7;color:#1d1b20;font:16px/1.7 system-ui,sans-serif}main{max-width:560px;margin:48px auto;padding:24px}a{color:#7457b8}@media(prefers-color-scheme:dark){html,body{background:#141218;color:#e6e0e9}a{color:#cfbdf7}}</style></head><body><main><p>正在前往下载页…</p><p><a href="download.html">手动前往</a></p></main><plaintext hidden style="display:none">');
   } catch (e) { /* 写提示失败不影响跳转 */ }
   var done = false, timer = null, sw = w.navigator && w.navigator.serviceWorker;
   function go() {

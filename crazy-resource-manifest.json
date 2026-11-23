@@ -8,6 +8,11 @@
       "sha256": "24f3bb98cd220849c63f6157d77c6163cbebfed3bcd21a8d48b85a692511d952"
     },
     {
+      "path": ".gitattributes",
+      "size": 180,
+      "sha256": "15dac169a49de59a31220bc2ab2ab573d09450410ba6e18e0617265094c3cf20"
+    },
+    {
       "path": ".gitignore",
       "size": 256,
       "sha256": "1055c65d298141cafafe0473294e0c4185f4eef475167fa4e585a8f5d364119f"
@@ -24,18 +29,18 @@
     },
     {
       "path": "app/notices.json",
-      "size": 147,
-      "sha256": "a090022e4399bdf678373d9d74059abf683e469e35f0d9672974794a718314ff"
+      "size": 139,
+      "sha256": "863a265ac125b40cb9fa382ef7c824f4edd5ff1d49ee656fc6eb04fec87be333"
     },
     {
       "path": "app/version.json",
-      "size": 241,
-      "sha256": "3fe148f7fc56a925fe5711c461e533b75fbc60a5df60762c1265096ddcc3ea1c"
+      "size": 240,
+      "sha256": "4f00731a510ad1f86019164b7a4d4d183db5e05b125d6a444ae07980cea328e2"
     },
     {
       "path": "app/version2.json",
-      "size": 4512,
-      "sha256": "0b585fe5f97d1ebab9b6df11cef67149acf5df174edc9078671618f5e3654833"
+      "size": 4453,
+      "sha256": "210810273e59d639bd44db0cc01fbb868793e9bd628fa9ac71a47f5db4f34672"
     },
     {
       "path": "app/zeehowebnext.apk",
@@ -64,18 +69,18 @@
     },
     {
       "path": "art/README.md",
-      "size": 1706,
-      "sha256": "91bc0db3119736b10f4fada46af95f702f16e4b5f64fde3cb964b84f44f4bd75"
+      "size": 1666,
+      "sha256": "fe98649b57ac158f3e7e29a46bce1d8fae710f35d1774fb26ef7cd4a1b71ff4e"
     },
     {
       "path": "CRAZY-PANEL.md",
-      "size": 999,
-      "sha256": "9a4877afcbd387827274df33cc628ee99af1769cfb440f469599678b36b7f523"
+      "size": 987,
+      "sha256": "8970bcd26271d5f13797999ed3845ada7988194d4cf8a72d9dafb16c966e2ce3"
     },
     {
       "path": "download.html",
-      "size": 21984,
-      "sha256": "be4efb547e313f4b7c781eb79d72dbc03d3368b9008afb0d4a1481220fac93a5"
+      "size": 21743,
+      "sha256": "666af4278b7c89f7d30f87c05c048c6ffca370e82a12d2e48690c84ea9f0b850"
     },
     {
       "path": "icons/apple-touch-icon.png",
@@ -104,18 +109,18 @@
     },
     {
       "path": "index.html",
-      "size": 4911923,
-      "sha256": "9e39ac49f92ba05f49e8b609414c4323ab19b8d53f9ee58811fb99d6eb80e85a"
+      "size": 4910933,
+      "sha256": "9f2687cdc8d4d640b48d3a6cbefe074f257c25c77936a6c5afe115118aa3f0e7"
     },
     {
       "path": "index.json",
-      "size": 2356,
-      "sha256": "0548c723052be2826fedebcb3fc6c2c128e8bdda9711c57a0a412169c43a8e23"
+      "size": 2280,
+      "sha256": "a27162982328fb64e4ac0d9c7acc0a4ba6c3657af2f090d33bdc20dc15fd5761"
     },
     {
       "path": "manifest.webmanifest",
-      "size": 767,
-      "sha256": "e7de3fb55cb30a52c5ef22b77aa49bec9bb9b517e57accaee81458f054da4cf0"
+      "size": 747,
+      "sha256": "0dcec5bea4abc0f90ad8fc17338a643080736607a1bf440b92964fa88c4b10de"
     },
     {
       "path": "mock.json",
@@ -199,8 +204,8 @@
     },
     {
       "path": "models/pic.json",
-      "size": 5062,
-      "sha256": "f2dccd9a54996e2bcd905f1c63d6c0e4f3b1d8654a76235eb3e1c520354069d3"
+      "size": 4920,
+      "sha256": "f711898b4d6635e9e0a0bfe857ed7d9ecd04dee99e8996c7cebd82afd6bd0301"
     },
     {
       "path": "models/pic3d/AE3-Pro-ZH1300DT-6.glb",
@@ -244,33 +249,33 @@
     },
     {
       "path": "models/pic3d.json",
-      "size": 2320,
-      "sha256": "196dc7978a3efa5276a9cb867d926029d0c1f514b88d8aa48ba13cee60078139"
+      "size": 2244,
+      "sha256": "7c5999092db57fd0d30f54b2b56d7e246a743f5841fea69ecbc7236a25b8afbc"
     },
     {
       "path": "README.md",
-      "size": 3064,
-      "sha256": "62f712b945ba332c23036e304434a547a6d07d7c72ca7b78fbba0202a7b784ca"
+      "size": 3017,
+      "sha256": "20e03885b0810cc64df1b65bdf99637844550f2895280cc500f156d907a02a4f"
     },
     {
       "path": "sw.js",
-      "size": 3292,
-      "sha256": "7c6a49385df2311779243cfa789f6f1539cd6ac16424adb750d4755a87292906"
+      "size": 3232,
+      "sha256": "44d686796e226be30ef93973bf20748bc6b7003a3bc26bef3d2ef264bdd1a18d"
     },
     {
       "path": "theme.LICENSE.txt",
-      "size": 77444,
-      "sha256": "2b6c2f0b9613025b7d5380385c954a9e5b58054dea5eae525f34786ced7f046b"
+      "size": 75989,
+      "sha256": "ac3a6cfa30b946a48c59e73f48ade6763ab46c0179f9b4a180a76567f82cb0b2"
     },
     {
       "path": "vehicle-info.html",
-      "size": 58399,
-      "sha256": "2b130d44ec0d8939347f34c3015f7ee103d7b629adcf6c215e6c2b9701c04a6e"
+      "size": 57069,
+      "sha256": "be15f281ccb5f4f159dc99ea683013570b2dd3133e4fd777b7d1551c4a8abaa6"
     },
     {
       "path": "version.json",
-      "size": 33,
-      "sha256": "485f1825e716d70166524d2ec56b58feb3f1e9427aac0778b91f0d25ce165615"
+      "size": 32,
+      "sha256": "f1e24cc5319721e671b0099e0cebe73e2e6af1882d0d62161d19f6776cac40c0"
     }
   ]
 }

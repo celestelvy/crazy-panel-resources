@@ -16,7 +16,7 @@
 // 关键文件（sw.js / release-manifest.json / version.json）应在 CF 上设 Bypass Cache，
 // 静态资源（index.html / icons / mock.json）可以放心让 CF 缓存。
 //
-// 双域名：zhb.xn--fiqz59cpva341l.top 与 lswlc33.github.io/zeeho-3d-models 跑同一份产物。
+// 双域名：zhb.xn--fiqz59cpva341l.top 与 celestelvy.github.io/crazy-panel-resources 跑同一份产物。
 // SW 按 self.location 自动分域（每个域名各自一份注册），所以代码里不写死任何域名，
 // 也不做 origin 判断——纯透传下没有"本站/外站"之分。
 

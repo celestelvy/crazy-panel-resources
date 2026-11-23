@@ -1,0 +1,95 @@
+{
+  "upstream": "lswlc33/zeeho-3d-models",
+  "upstreamCommit": "593ba8e2201c1920a82e3880d25aba2acdec6bd5",
+  "destination": "celestelvy/crazy-panel-resources",
+  "encodedReplacements": [
+    {
+      "before": "当前环境没有投屏原生桥，需在极核面板 App 内使用",
+      "after": "当前环境没有投屏原生桥，需在crazy面板 App 内使用"
+    },
+    {
+      "before": "请在弹出的系统面板里选择「极核面板」开始录屏",
+      "after": "请在弹出的系统面板里选择「crazy面板」开始录屏"
+    },
+    {
+      "before": "极核面板 · 应用日志",
+      "after": "crazy面板 · 应用日志"
+    },
+    {
+      "before": "几何面板是极核 ZEEHO 电动车的第三方车辆面板，运行在浏览器/PWA 和 Android 壳 WebView 中；不是网页编辑器，也不是车辆车机内仪表。\n软件通过已有云端（cloud）数据显示电量、电池电压、车辆/锁/在线/充电状态、胎压、位置和骑行记录，并提供寻车、车锁、打开坐垫三个现成操作。\n云端样本可能有更新延迟，不保证实时；首页读数可按电压（V）→续航（km）→圆点三态切换，续航来自车况 hmiRidableMile 对应的模型字段。当前不展示实时车速，不能新增实时速度或编造读数。数据获取、车控权限和软件提醒由软件管理，不需要你发 API、写车控或接入车辆。",
+      "after": "crazy面板是极核 ZEEHO 电动车的第三方车辆面板，运行在浏览器/PWA 和 Android 壳 WebView 中；不是网页编辑器，也不是车辆车机内仪表。\n软件通过已有云端（cloud）数据显示电量、电池电压、车辆/锁/在线/充电状态、胎压、位置和骑行记录，并提供寻车、车锁、打开坐垫三个现成操作。\n云端样本可能有更新延迟，不保证实时；首页读数可按电压（V）→续航（km）→圆点三态切换，续航来自车况 hmiRidableMile 对应的模型字段。当前不展示实时车速，不能新增实时速度或编造读数。数据获取、车控权限和软件提醒由软件管理，不需要你发 API、写车控或接入车辆。"
+    },
+    {
+      "before": "https://cdn.jsdelivr.net/gh/lswlc33/zeeho-3d-models@main/models/pic3d/AE4-MAX2plus.glb",
+      "after": "https://cdn.jsdelivr.net/gh/celestelvy/crazy-panel-resources@main/models/pic3d/AE4-MAX2plus.glb"
+    },
+    {
+      "before": "/zeeho-3d-models/",
+      "after": "/crazy-panel-resources/"
+    },
+    {
+      "before": "https://lswlc33.github.io",
+      "after": "https://celestelvy.github.io"
+    },
+    {
+      "before": "请先把几何面板 App 更新到 1.5.8 或更高版本",
+      "after": "请先把crazy面板 App 更新到 1.5.8 或更高版本"
+    },
+    {
+      "before": "几何面板",
+      "after": "crazy面板"
+    },
+    {
+      "before": "请先把几何面板 App 更新到 1.5.11",
+      "after": "请先把crazy面板 App 更新到 1.5.11"
+    },
+    {
+      "before": "当前 App 版本不支持数据位自定义，请更新几何面板",
+      "after": "当前 App 版本不支持数据位自定义，请更新crazy面板"
+    },
+    {
+      "before": "https://lswlc33.github.io",
+      "after": "https://celestelvy.github.io"
+    },
+    {
+      "before": "https://lswlc33.github.io/zeeho-3d-models/vehicle-info.html",
+      "after": "https://celestelvy.github.io/crazy-panel-resources/vehicle-info.html"
+    },
+    {
+      "before": "添加小组件：长按主屏幕空白处 → 添加小组件 → 几何面板。系统决定尺寸、样式与刷新预算；显示指引不代表已添加。",
+      "after": "添加小组件：长按主屏幕空白处 → 添加小组件 → crazy面板。系统决定尺寸、样式与刷新预算；显示指引不代表已添加。"
+    },
+    {
+      "before": "添加小组件：长按桌面空白处 → 小组件 → 几何面板。每款尺寸固定，已添加的实例不能调整大小。",
+      "after": "添加小组件：长按桌面空白处 → 小组件 → crazy面板。每款尺寸固定，已添加的实例不能调整大小。"
+    },
+    {
+      "before": "https://lswlc33.github.io/zeeho-3d-models/",
+      "after": "https://celestelvy.github.io/crazy-panel-resources/"
+    },
+    {
+      "before": "https://raw.githubusercontent.com/lswlc33/zeeho-3d-models/main/",
+      "after": "https://raw.githubusercontent.com/celestelvy/crazy-panel-resources/main/"
+    },
+    {
+      "before": "https://ghfast.top/https://raw.githubusercontent.com/lswlc33/zeeho-3d-models/main/",
+      "after": "https://ghfast.top/https://raw.githubusercontent.com/celestelvy/crazy-panel-resources/main/"
+    },
+    {
+      "before": "https://cdn.jsdelivr.net/gh/lswlc33/zeeho-3d-models@main/",
+      "after": "https://cdn.jsdelivr.net/gh/celestelvy/crazy-panel-resources@main/"
+    },
+    {
+      "before": "https://gh-proxy.com/https://raw.githubusercontent.com/lswlc33/zeeho-3d-models/main/",
+      "after": "https://gh-proxy.com/https://raw.githubusercontent.com/celestelvy/crazy-panel-resources/main/"
+    },
+    {
+      "before": "没给定位权限：请在系统设置里允许「几何面板」使用位置，再回来点一次。",
+      "after": "没给定位权限：请在系统设置里允许「crazy面板」使用位置，再回来点一次。"
+    },
+    {
+      "before": "请先把几何面板 App 更新到 1.5.3 或更高版本",
+      "after": "请先把crazy面板 App 更新到 1.5.3 或更高版本"
+    }
+  ]
+}

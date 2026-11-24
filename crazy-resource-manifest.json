@@ -39,8 +39,8 @@
     },
     {
       "path": "app/version2.json",
-      "size": 4851,
-      "sha256": "2cd50805f3cd4058edfac90b80ff47db893790a7b954a58a946659307c891cc5"
+      "size": 4875,
+      "sha256": "7ac81ff151a89c48fdee5aada7fcc28742ef1a505411b14de8c6d95240358d0c"
     },
     {
       "path": "app/zeehowebnext.apk",
@@ -49,8 +49,8 @@
     },
     {
       "path": "app/zeehowebnext.ipa",
-      "size": 3110145,
-      "sha256": "8eff2b8ae26f7211e9a614a4dd5380cf1aebd47b9b44f8511e0443462bbea2f5"
+      "size": 3118002,
+      "sha256": "16acb9acdd2b649c41253da3a96011890730b8fe0c28867c6f74eb09aa5f9faa"
     },
     {
       "path": "art/358122400044095.webp",
@@ -74,8 +74,8 @@
     },
     {
       "path": "crazy-appearance.js",
-      "size": 5026,
-      "sha256": "d79ee2a0b4f35c7f6781a0873a23c3f2ca8f8839ab8a284b5fd42ecc2a189b0a"
+      "size": 12146,
+      "sha256": "042909c1d0633ca4509b7de017a6d502af348576421b973135bc7af475d4aa89"
     },
     {
       "path": "crazy-integration.js",
@@ -124,8 +124,8 @@
     },
     {
       "path": "index.html",
-      "size": 4924315,
-      "sha256": "daf09caf4d121919ce5e77301d51c7d35b8515546dd42f5a3976377dafc43a85"
+      "size": 4931435,
+      "sha256": "62f7d7d8b1b11223ca824ef5746c71b37925e60b1ef69a23f9fb6ae620990ca9"
     },
     {
       "path": "index.json",
@@ -290,7 +290,7 @@
     {
       "path": "version.json",
       "size": 31,
-      "sha256": "2edac850c3b28fd0da7efa77ba122d0cdaa8f5f6cd9898307a29e616a9bbb5cc"
+      "sha256": "146e10ce8c028cce42deadda50cfd6b5c378a3d205c404af818f932df54eea3c"
     }
   ]
 }

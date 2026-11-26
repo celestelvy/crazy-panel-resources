@@ -39,8 +39,8 @@
     },
     {
       "path": "app/version2.json",
-      "size": 4821,
-      "sha256": "d5e815be8680a119211ee9f860949e70b56e21488faf9d797e7da761b072c335"
+      "size": 4917,
+      "sha256": "6e115e6e13e95bafebad3699b28a1c883f86391f50a52d60b22a9f9770e9fbf2"
     },
     {
       "path": "app/zeehowebnext.apk",
@@ -49,8 +49,8 @@
     },
     {
       "path": "app/zeehowebnext.ipa",
-      "size": 3117299,
-      "sha256": "c52533a2abd497aa1fd8eb69278073c9b02f3e48bfdf206bfee960feecef9675"
+      "size": 3127299,
+      "sha256": "0829e079b8cb69cde1d2df6645b6f31dde8a5cc184a93e2777337c312bd0e101"
     },
     {
       "path": "art/358122400044095.webp",
